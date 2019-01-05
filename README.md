@@ -1,14 +1,40 @@
-# useful-stuff
+# Useful Stuff
 
-misc useful files and scripts
+Misc useful files and scripts
 
 <hr>
 
-sulbime context menu:
+### Add Sublime 3 to Context Menu:
 
-what it does: adds an option to open with sublime on files and folders
+What it does:
 
-what to do: download, right click OpenWithSublime.bat, run as admin
+- Adds an option to open with sublime when right clicking files and folders
 
-credit: https://gist.github.com/roundand/9367852
+What to do: 
+
+- Run OpenWithSublime.bat as administrator
+
+Credit: 
+
+- Made by [Francis Norton](https://gist.github.com/roundand/9367852)
+
+<hr>
+
+### Folder Maker:
+
+What it does:
+
+- Creates many numbered or named folders quickly
+
+What to do:
+
+- Run FolderMaker.bat
+
+- Choose to make either a certain number of numbered folders, or
+
+- Manually enter the names of the folders you'd like to create, with names seperated by commas
+
+Credit:
+
+- Made by [Justin Golden](http://justingolden21.github.io)
 
