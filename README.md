@@ -4,6 +4,8 @@ Misc useful files and scripts
 
 <hr>
 
+# Batch Scripts:
+
 ### Add Sublime 3 to Context Menu:
 
 What it does:
@@ -38,3 +40,22 @@ Credit:
 
 - Made by [Justin Golden](http://justingolden21.github.io)
 
+<hr>
+
+# Dev Stuff:
+
+### React Hello World
+
+What it is:
+
+- A simple hello world from react
+
+What to do:
+
+- Download it and open with a browser, then edit with a text editor as you learn react.js
+
+Credit:
+
+- Made by [Justin Golden](http://justingolden21.github.io)
+
+<hr>
