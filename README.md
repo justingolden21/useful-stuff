@@ -58,4 +58,20 @@ Credit:
 
 - Made by [Justin Golden](http://justingolden21.github.io)
 
+### Primes.js
+
+What it is:
+
+- Some useful prime number functions written in javascript
+
+What to do:
+
+- Download and open the index.html file, then inspect element to test the functions
+
+- Or download and copy primes.js to your project, and use the functions however you wish
+
+Credit:
+
+- Made by [Justin Golden](http://justingolden21.github.io)
+
 <hr>
