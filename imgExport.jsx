@@ -32,7 +32,7 @@ function saveToRes(scaleTo) {
 			hideAllLayers();
 			layer.visible = true;
 
-			file = new File(folder.fsName+ "/" + layer.name + "-" + num + ".png");
+			file = new File(folder.fsName+ "/" + "logo-" + num + ".png");
 			$.writeln(folder.fsName);
 			$.writeln(file.fsName);
 			$.writeln(layer.name);
