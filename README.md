@@ -74,4 +74,28 @@ Credit:
 
 - Made by [Justin Golden](http://justingolden21.github.io)
 
+### imgExport.jsx
+
+What it is:
+
+- An image export script for Adobe Illustrator, exports file into many sized PNGs at once.
+
+What to do:
+
+- Download and copy the file anywhere you'd like
+
+- In Illustrator, go to FIle -> Scripts -> Other Script and find the location you copied the script to, then select the output folder.
+
+- Feel free to edit the numbers in the <code>sizes</code> array for your own uses.
+
+Credit:
+
+- Edited by [Justin Golden](http://justingolden21.github.io)
+
+- From: https://graphicdesign.stackexchange.com/questions/53177/export-an-image-from-illustrator-with-multiple-sizes-at-once/119697#119697
+
+- @herkulano (http://www.herkulano.com)
+
+- Niels Bosma (niels.bosma@motorola.com)
+
 <hr>
